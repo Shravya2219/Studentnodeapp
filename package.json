@@ -1,0 +1,26 @@
+{
+  "name": "nodeprog",
+  "version": "1.0.0",
+  "description": "This is a node application to display student registration details",
+  "main": "studregnode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shravya2219/Studentnodeapp.git"
+  },
+  "keywords": [
+    "node",
+    "app"
+  ],
+  "author": "Shravya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shravya2219/Studentnodeapp/issues"
+  },
+  "homepage": "https://github.com/Shravya2219/Studentnodeapp#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
